@@ -1,0 +1,2 @@
+# inheritance.py
+class work
